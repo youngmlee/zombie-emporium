@@ -53,3 +53,17 @@ body {
 #footer {
   margin-top: 20px;
 }
+
+#quantity {
+  margin-left: -30px;
+}
+
+#quantity-label {
+  margin-left: -30px;
+}
+
+img.details {
+  width: auto;
+  margin: 15px auto;
+  height: 200px;
+}

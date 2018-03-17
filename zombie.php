@@ -164,7 +164,7 @@
         <h4>Steel Bat</h4>
         <img src="images/bat.jpg" alt="Steel Bat" id="images" />
         <p class="list-price text-danger">List Price: <s>$179.99</s></p>
-        <p class="price">Our Price: $139.95</p>
+        <p class="price">Our Price: $99.95</p>
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#details-16">Details</button>
       </div>
     </div>
