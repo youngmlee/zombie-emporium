@@ -170,5 +170,24 @@
     </div>
     <footer class="text-center" id="footer">&copy; Copyright 2017-2018 Young's Zombie Emporium</footer>
   </div>
+  <!-- details modal -->
+  <?php include 'details-modal-BodyArmor.php';
+        include 'details-modal-Crossbow.php';
+        include 'details-modal-Lifestraw.php';
+        include 'details-modal-Axe.php';
+        include 'details-modal-Multitool.php';
+        include 'details-modal-FirstAid.php';
+        include 'details-modal-Flashlight.php';
+        include 'details-modal-Shotgun.php';
+        include 'details-modal-Boots.php';
+        include 'details-modal-Binoculars.php';
+        include 'details-modal-Firestarter.php';
+        include 'details-modal-Gloves.php';
+        include 'details-modal-Bracelet.php';
+        include 'details-modal-Helmet.php';
+        include 'details-modal-Watch.php';
+        include 'details-modal-Bat.php';
+  ?>
+  <!-- end of details modal -->
 </body>
 </html>
