@@ -44,3 +44,12 @@ body {
   margin-top: -80px;
   left: -700px;
 }
+
+#images {
+  width: auto;
+  height: 200px;
+}
+
+#footer {
+  margin-top: 20px;
+}
